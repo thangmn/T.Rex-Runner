@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\bin\Debug\t.Rex Runner Game.exe.config
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\bin\Debug\t.Rex Runner Game.exe
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\bin\Debug\t.Rex Runner Game.pdb
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\obj\Debug\t.Rex Runner Game.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\obj\Debug\t.Rex_Runner_Game.Form1.resources
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\obj\Debug\t.Rex_Runner_Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\obj\Debug\t.Rex Runner Game.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\obj\Debug\t.Rex Runner Game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\obj\Debug\t.Rex Runner Game.exe
+C:\Users\Administrator\Desktop\T-Rex Game\t.Rex Runner Game\obj\Debug\t.Rex Runner Game.pdb
